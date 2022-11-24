@@ -1,4 +1,0 @@
-{
-    "dockerhub-id": "dmo113/ma5",
-    "build-script": "python run.py"
-}
